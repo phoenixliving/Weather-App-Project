@@ -109,3 +109,10 @@ form {
 .weather-emoji {
     font-size: 1.5rem;
 }
+
+.footnote {
+    font-size: .875em;
+    text-decoration: none;
+    margin-left: 5em;
+        
+}
